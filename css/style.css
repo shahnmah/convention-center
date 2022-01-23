@@ -3,10 +3,13 @@ body{
     font-family: 'Poppins', sans-serif;
 }
 .primary-color{
-    color: #f05f75;
+    color: #d50a51;
 }
 .primary-bg{
     background-color: #f05f75;
+}
+.primary-bg-2{
+    background-color: #fef7fa;
 }
 .heading-primary-color{
     color: #121f38;
