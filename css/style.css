@@ -5,6 +5,23 @@ body{
 .primary-color{
     color: #f05f75;
 }
-.heading-primary.color{
+.primary-bg{
+    background-color: #f05f75;
+}
+.heading-primary-color{
     color: #121f38;
+}
+ul{
+    list-style: none;
+}
+.package-item{
+    border-radius: 20px;
+}
+.package-active{
+    position: relative;
+}
+.hot-package{
+    position: absolute;
+    top: -15px;
+    right: 30px;
 }
