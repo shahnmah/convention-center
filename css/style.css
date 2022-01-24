@@ -25,4 +25,14 @@ ul{
 }
 .hot-package{
     top: -15px;
+    right: 20px;
+}
+.banner .carousel-item{
+    max-height: 600px;
+}
+.banner .carousel-item img{
+    height: 600px;
+}
+.faq-img{
+    width: 85%;
 }
