@@ -21,10 +21,8 @@ ul{
     border-radius: 20px;
 }
 .package-active{
-    position: relative;
+   transform: scaleY(1.1);
 }
 .hot-package{
-    position: absolute;
     top: -15px;
-    right: 30px;
 }
